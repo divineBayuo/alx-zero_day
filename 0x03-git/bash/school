@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-!#/bin/bash
-=======
-#!/bin/bash
->>>>>>> master
-echo "The school is open!"
+The school is open!
